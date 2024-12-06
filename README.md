@@ -10,4 +10,4 @@
 
 ## Дополнительные материалы:
 Документация - https://www.typescriptlang.org/docs/handbook/2/generics.html  
-Видео - 
+Видео - https://youtube.com/shorts/6G8DeAkuTkc?feature=share
